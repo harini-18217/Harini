@@ -1,0 +1,25 @@
+/* General Styles */
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: 'Playfair Display', serif;
+
+    color: #2c3e50;
+
+    overflow-x: hidden;
+
+    background: linear-gradient(135deg, #e6f7ff 0%, #b3e0ff 100%);
+
+}
+
+.section-title {
